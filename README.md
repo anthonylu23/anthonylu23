@@ -16,9 +16,9 @@ i'm a **computer and data science student at nyu** building **ml systems and ai-
 
 **ml / data:** pytorch, scikit-learn, numpy, pandas, hugging face
 
-**cloud / infra:** google cloud (vertex ai, bigquery, gcs), docker, aws, supabase, railway, vercel ☁️
+**cloud / infra:** google cloud (vertex ai, bigquery, gcs), docker, aws, supabase, railway, vercel 
 
-**web:** react, node.js, fastapi, tailwind css, three.js 🌐
+**web:** react, node.js, fastapi, tailwind css, three.js
 
 ### 📫 contact
 
