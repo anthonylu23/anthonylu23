@@ -5,10 +5,10 @@ i'm a **computer and data science student at nyu** building **ml systems and ai-
 ### 🚀 some cool projects i've been working on
 
 * **[pulse ai newsletter](https://github.com/gwald101/pulse-ai-newsletter)**:
-  an automated newsletter generation pipeline that scrapes sources like x, ranks content, and generates newsletters using llms 📰🤖
+  an automated newsletter generation pipeline that scrapes sources like x, ranks content, and generates newsletters using llms. includes an admin only dashboard for config, test run, and analytics
 
 * **[neural signal classifier](https://github.com/anthonylu23/neural-vit)**:
-  a 3d vision transformer that uses spectrograms from mouse lfp traces to classify genotypes, with cloud gpu training, hyperparameter tuning, and modern optimization techniques 🧠⚡
+  a 3d vision transformer that uses spectrograms from mouse lfp traces to classify genotypes, with cloud gpu training, hyperparameter tuning, and modern optimization techniques 
 
 ### 🛠️ tech stack
 
