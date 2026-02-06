@@ -1,6 +1,6 @@
 ## hi there, i'm anthony 👋
 
-i'm a **computer and data science student at nyu** building **ml systems and software tools**, with a strong interest in **machine learning, gen ai, and software development**. i enjoy working on end-to-end projects, from data pipelines and model training to deployment and full stack integration.
+i'm a **computer and data science student at nyu**, with a strong interest in **machine learning, gen ai, and building useful software**. i enjoy working on end-to-end applied data/ml and full stack projects, and experimenting with new tools and frameworks
 
 ### 🚀 some cool projects i've been working on
 
