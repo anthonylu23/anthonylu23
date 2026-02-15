@@ -4,13 +4,13 @@ i'm a **computer and data science student at nyu**, with a strong interest in **
 
 ### 🛠️ tech stack
 
-**languages:** python, javascript, typescript, sql, c/c++, swift
+**languages:** python, javascript, typescript, sql, c/c++, swift, golang
 
 **ml / data:** pytorch, scikit-learn, numpy, pandas, hugging face
 
 **cloud / infra:** google cloud (vertex ai, bigquery, gcs), docker, aws, supabase, railway, vercel, convex
 
-**web:** react, node.js, fastapi, tailwind css, three.js, shadcn ui
+**web:** react, node.js, bun, fastapi, tailwind css, three.js, shadcn ui
 
 ### 📫 contact
 
