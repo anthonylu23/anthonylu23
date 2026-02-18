@@ -15,5 +15,5 @@ i'm a **computer and data science student at nyu**, with a strong interest in **
 ### 📫 contact
 
 * 🌍 website: [https://luanthony.xyz](https://luanthony.xyz)
-* 💼 linkedin: [https://linkedin.com/in/your-link](https://linkedin.com/in/ayl24)
+* 💼 linkedin: [https://linkedin.com/in/ayl24](https://linkedin.com/in/ayl24)
 * ✉️ email: [luanthony523@gmail.com](mailto:luanthony523@gmail.com)
