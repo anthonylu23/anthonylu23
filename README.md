@@ -10,7 +10,7 @@ i'm a **computer and data science student at nyu**, with a strong interest in **
 
 **cloud / infra:** google cloud (vertex ai, bigquery, gcs), docker, aws, supabase, railway, vercel, convex
 
-**web:** react, node.js, bun, fastapi, tailwind css, three.js, shadcn ui
+**web:** react, node.js, bun, fastapi, react, next.js, tailwind css, three.js
 
 ### 📫 contact
 
