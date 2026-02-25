@@ -1,6 +1,6 @@
 ## hi there, i'm anthony 👋
 
-i'm a **computer and data science student at nyu**, with a strong interest in **machine learning, gen ai, and dev tools**. i enjoy working on applied ml and full stack projects, and experimenting with new tools and frameworks.
+i'm currently a **cs and data science major at nyu** minoring in math, with a strong interest in **machine learning, gen ai, and dev tools**. i enjoy working on applied ml and full stack projects, and experimenting with new tools and frameworks.
 
 ### 🛠️ tech stack
 
