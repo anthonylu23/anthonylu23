@@ -1,6 +1,6 @@
 ## hi there, i'm anthony 👋
 
-i'm currently a **cs and data science major at nyu** minoring in math, with a strong interest in **machine learning, gen ai, and dev tools**. i enjoy working on applied ml and full stack projects, and experimenting with new tools and frameworks.
+i'm currently an undergrad at **nyu** majoring in **computer and data science** and minoring in **math**, with a strong interest in **machine learning, gen ai, and building software**. i enjoy working on applied ml and full stack projects, and experimenting with new tools and frameworks.
 
 ### 🛠️ tech stack
 
@@ -10,7 +10,7 @@ i'm currently a **cs and data science major at nyu** minoring in math, with a st
 
 **cloud / infra:** google cloud (vertex ai, bigquery, gcs), docker, aws, supabase, railway, vercel, convex
 
-**web:** react, node.js, bun, fastapi, react, next.js, tailwind css, three.js
+**frameworks:** react, node.js, bun, fastapi, react, next.js, tailwind css, three.js
 
 ### 📫 contact
 
