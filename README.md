@@ -4,13 +4,13 @@ i'm currently an undergrad at **nyu** majoring in **computer and data science** 
 
 ### 🛠️ tech stack
 
-**languages:** python, javascript, typescript, sql, c/c++, swift, golang
+**languages:** python, javascript, typescript, sql, c/c++, swift, golang, rust
 
 **ml / data:** pytorch, scikit-learn, numpy, pandas, hugging face
 
-**cloud / infra:** google cloud (vertex ai, bigquery, gcs), docker, aws, supabase, railway, vercel, convex
+**cloud / infra:** gcp, docker, aws, supabase, railway, vercel, convex, git, perforce
 
-**frameworks:** react, node.js, bun, fastapi, next.js, tailwind css, three.js
+**frameworks:** react, angular, node.js, bun, fastapi, next.js, tailwind css, three.js
 
 ### 📫 contact
 
