@@ -1,10 +1,10 @@
 ## hi there, i'm anthony 👋
 
-i'm currently an undergrad at **nyu** majoring in **computer and data science** and minoring in **math**, with a strong interest in **machine learning, agentic systems, and distributed systems**. i enjoy working on applied ml and full stack projects, and experimenting with new tools and frameworks.
+i'm currently an undergrad at **nyu** majoring in **computer and data science** and minoring in **math**, with a strong interest in **ml/ai, evals, inference, and systems **. i enjoy working on applied ml and systems projects, and experimenting with new tools and frameworks.
 
 ### 🛠️ tech stack
 
-**languages:** python, javascript, typescript, sql, c/c++, swift, golang, rust
+**languages:** python, c++, javascript, typescript, sql, swift, golang, rust
 
 **ml / data:** pytorch, scikit-learn, numpy, pandas, hugging face
 
