@@ -4,7 +4,7 @@ i'm currently an undergrad at **nyu** majoring in **computer and data science** 
 
 ### 🛠️ tech stack
 
-**languages:** python, c++, javascript, typescript, sql, swift, golang, rust
+**languages:** python, c++, c, javascript, typescript, sql, swift, golang, rust
 
 **ml / data:** pytorch, scikit-learn, numpy, pandas, hugging face
 
